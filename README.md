@@ -8,4 +8,4 @@ Herramienta desarrollada para el diagnóstico
 
 ![](dash.PNG)
 
-<iframe src="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" width="640" height="480" allow="autoplay"></iframe>
+<a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">PDF.</a>
