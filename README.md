@@ -1,4 +1,4 @@
-# Imanol Miranda
+# PROJECT 1
 Herramienta desarrollada para el diagnóstico
 
 * Herramienta desarrollada para analizar la competitividad territorial de las comarcas del País Vasco.
