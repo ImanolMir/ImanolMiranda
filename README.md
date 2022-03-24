@@ -1,6 +1,6 @@
 # PROJECT 1
-Primer artículo relacionado con la IA
-<a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">Neuronas de silicio_ImanolMiranda_APP.</a>
+Primer artículo relacionado con la IA:
+<a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">Neuronas de silicio.</a>
 ![](APP.PNG)
 
 # PROJECT 2
