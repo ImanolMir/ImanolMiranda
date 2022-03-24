@@ -8,4 +8,6 @@ Herramienta desarrollada para el diagnóstico
 
 ![](dash.PNG)
 
+![](Neuronas de silicio_ImanolMiranda_APP.PDF)
+
 <a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">PDF.</a>
