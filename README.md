@@ -7,3 +7,5 @@ Herramienta desarrollada para el diagnóstico
 * Utilizando plotly y dash intentamos crear algo similar a un cuadro de mando.
 
 ![](dash.PNG)
+
+<a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/view?usp=sharing" target="_blank">PDF.</a>
