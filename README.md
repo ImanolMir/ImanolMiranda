@@ -1,5 +1,6 @@
 # PROJECT 1: <a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">Neuronas de silicio</a>
-Primer artículo relacionado con la IA:
+Primer artículo relacionado con la IA
+
 ![](APP.PNG)
 
 # PROJECT 2 <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
