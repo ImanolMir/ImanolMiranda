@@ -3,7 +3,7 @@ Primer artículo relacionado con la IA
 
 ![](APP.PNG)
 
-# PROJECT 2 <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
+# PROJECT 2: <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
 
 * Herramienta desarrollada para analizar la competitividad territorial de las comarcas del País Vasco.
 * Inicialmente sólo se solicitó el análisis de dos comarcas, pero se decidió crear una herramienta que facilitara el análisis de cualquiera de las comarcas de forma dinámica.
