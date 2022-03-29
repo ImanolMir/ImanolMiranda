@@ -1,7 +1,7 @@
 # PROJECT 1: <a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">Neuronas de silicio</a>
 Durante el tercer curso de la carrera, se realiza el siguiente artículo relacionado con la inteligencia artificial. Para dar formato se utiliza Latex.
 
-![](APP.PNG) <img src="APP.PNG" width="100" height="100">
+<img src="APP.PNG" width="100" height="100">
 
 # PROJECT 2: MONITORIZACIÓN DE FALLOS EN RODAMIENTOS EN MATLAB
 
