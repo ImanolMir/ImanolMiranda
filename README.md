@@ -16,7 +16,7 @@ Simulación numérica realizada durante el tercer curso.
 * Con los datos obtenidos se aplica un filtro de paso de banda.
 ![](filtro.JPG)
 * Se realiza la transformada de Hilbert y se representan las frecuencias de fallo.
-![](envolvent2.JPG)
+![](envolvente2.JPG)
 
 
 # PROJECT 3: <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
