@@ -7,16 +7,16 @@ Primer artículo relacionado con la IA
 
 Simulación numérica realizada durante el tercer curso.
 * Primero se analizan el dominio del tiempo y de frecuencia de la señal.
-
-* Como no se observa nada representativo, mediante el curtograma se obtienen la longitud de ventana, la frecuencia centrada y el ancho de banda.
-
+![](tiempo.JPG)
+![](frecuencia.JPG)
+* Se realiza la transformada de Hilbert.
+![](envolvente1.JPG)
+* En caso de no observar nada representativo, mediante el curtograma se obtienen la longitud de ventana, la frecuencia centrada y el ancho de banda.
+![](curtograma.JPG)
 * Con los datos obtenidos se aplica un filtro de paso de banda.
-
+![](filtro.JPG)
 * Se realiza la transformada de Hilbert y se representan las frecuencias de fallo.
-
-
-
-
+![](envolvent2.JPG)
 
 
 # PROJECT 3: <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
