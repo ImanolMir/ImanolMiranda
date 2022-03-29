@@ -7,16 +7,16 @@ Durante el tercer curso de la carrera, se realiza el siguiente artículo relacio
 
 Simulación numérica realizada durante el tercer curso mediante Matlab.
 * Primero se analizan el dominio del tiempo y de frecuencia de la señal.
-<img src="tiempo.JPG" width="250" height="250">
-![](frecuencia.JPG)
+<img src="tiempo.JPG" width="400" height="400">
+<img src="frecuencia.JPG" width="400" height="400">
 * Se realiza la transformada de Hilbert.
-![](envolvente1.JPG)
+<img src="envolvente1.JPG" width="400" height="400">
 * En caso de no observar nada representativo, mediante el curtograma se obtienen la longitud de ventana, la frecuencia centrada y el ancho de banda.
-![](curtograma.JPG)
+<img src="curtograma.JPG" width="400" height="400">
 * Con los datos obtenidos se aplica un filtro de paso de banda.
 ![](filtro.JPG)
 * Se realiza la transformada de Hilbert y se representan las frecuencias de fallo.
-![](envolvente2.JPG)
+<img src="envolvente2.JPG" width="400" height="400">
 
 
 # PROJECT 3: <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
