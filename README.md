@@ -1,11 +1,11 @@
 # PROJECT 1: <a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">Neuronas de silicio</a>
-Primer artículo relacionado con la IA
+Durante el tercer curso de la carrera, se realiza el siguiente artículo relacionado con la inteligencia artificial. Para dar formato se utiliza Latex.
 
 ![](APP.PNG)
 
 # PROJECT 2: MONITORIZACIÓN DE FALLOS EN RODAMIENTOS EN MATLAB
 
-Simulación numérica realizada durante el tercer curso.
+Simulación numérica realizada durante el tercer curso mediante Matlab.
 * Primero se analizan el dominio del tiempo y de frecuencia de la señal.
 ![](tiempo.JPG)
 ![](frecuencia.JPG)
@@ -21,7 +21,7 @@ Simulación numérica realizada durante el tercer curso.
 
 # PROJECT 3: <a href="https://github.com/ImanolMir/Diagn-stico-de-competitividad-territorial" target="_blank">Herramienta desarrollada para el diagnóstico</a>
 
-* Herramienta desarrollada para analizar la competitividad territorial de las comarcas del País Vasco.
+* Herramienta desarrollada por Eduard Zuluaga e Imanol Miranda para analizar la competitividad territorial de las comarcas del País Vasco.
 * Inicialmente sólo se solicitó el análisis de dos comarcas, pero se decidió crear una herramienta que facilitara el análisis de cualquiera de las comarcas de forma dinámica.
 * Los principales indicadores analizados durante el trabajo se relacionan entre sí mediante gráficos dinámicos.
 * Utilizando plotly y dash intentamos crear algo similar a un cuadro de mando.
