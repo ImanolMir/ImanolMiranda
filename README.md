@@ -1,13 +1,13 @@
 # PROJECT 1: <a href="https://drive.google.com/file/d/1SMhT4I5KEW4q8PZr8d5GTpkCVgOt3J79/preview" target="_blank">Neuronas de silicio</a>
 Durante el tercer curso de la carrera, se realiza el siguiente artículo relacionado con la inteligencia artificial. Para dar formato se utiliza Latex.
 
-<img src="APP.PNG" width="100" height="100">
+![](APP.PNG)
 
 # PROJECT 2: MONITORIZACIÓN DE FALLOS EN RODAMIENTOS EN MATLAB
 
 Simulación numérica realizada durante el tercer curso mediante Matlab.
 * Primero se analizan el dominio del tiempo y de frecuencia de la señal.
-![](tiempo.JPG)
+<img src="tiempo.JPG" width="250" height="250">
 ![](frecuencia.JPG)
 * Se realiza la transformada de Hilbert.
 ![](envolvente1.JPG)
