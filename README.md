@@ -14,7 +14,7 @@ Simulación numérica realizada durante el tercer curso mediante Matlab.
 * En caso de no observar nada representativo, mediante el curtograma se obtienen la longitud de ventana, la frecuencia centrada y el ancho de banda.
 <img src="curtograma.JPG" width="400" height="400">
 * Con los datos obtenidos se aplica un filtro de paso de banda.
-<img src="filtro.JPG">
+<img src="filtro.JPG" width="400" height="400">
 * Se realiza la transformada de Hilbert y se representan las frecuencias de fallo.
 <img src="envolvente2.JPG" width="400" height="400">
 
